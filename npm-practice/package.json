@@ -5,6 +5,7 @@
   "type": "module",
   "author": "Kentravious Colson",
   "description": "An awesome project",
+  "keywords": ["descriptive","related","words"],
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
