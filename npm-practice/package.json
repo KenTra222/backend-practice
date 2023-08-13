@@ -5,7 +5,8 @@
   "type": "module",
   "author": "Kentravious Colson",
   "description": "An awesome project",
-  "keywords": ["descriptive","related","words"],
+  "keywords": ["descriptive","related","words", "freecodecamp"],
+  "license": "MIT", 
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
